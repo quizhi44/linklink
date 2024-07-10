@@ -1,9 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T00:37:05.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.6.4" etag="hoky19wp18xdiVMheO2c" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T01:55:29.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="_Hk27Hg5dXcrv3xOgWpX" version="24.6.4" type="github">
   <diagram name="第 1 页" id="uXxsrBKN4tL2hKQCJiG4">
-    <mxGraphModel>
+    <mxGraphModel dx="1360" dy="639" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-2" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 14px; text-align: start;&quot;&gt;春风中的崛起&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; font-size: 14px; text-align: start;&quot;&gt;1979-1990&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="10" y="104" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-3" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 14px; text-align: start;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;问鼎羊绒大王&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; font-size: 14px; text-align: start;&quot;&gt;1991-2002&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="760" y="284" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-4" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; font-size: 14px; text-align: start;&quot;&gt;拓荒棋盘井&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; font-size: 14px; text-align: start;&quot;&gt;2003-2012&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="475" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-8" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; font-size: 14px; text-align: start;&quot;&gt;变革中发展&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; font-size: 14px; text-align: start;&quot;&gt;2013-&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="10" y="713" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tFpNyGx5-nAJuSRPgyrJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="216.26999999999998" y="142" as="sourcePoint" />
+            <mxPoint x="770" y="144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="324" as="sourcePoint" />
+            <mxPoint x="40" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tFpNyGx5-nAJuSRPgyrJ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="608" as="sourcePoint" />
+            <mxPoint x="783" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tFpNyGx5-nAJuSRPgyrJ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="752.5" as="sourcePoint" />
+            <mxPoint x="770" y="753" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tFpNyGx5-nAJuSRPgyrJ-15" target="tFpNyGx5-nAJuSRPgyrJ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-15" value="1979年" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="104" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-21" value="1987年" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="104" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="tFpNyGx5-nAJuSRPgyrJ-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="134" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.915;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tFpNyGx5-nAJuSRPgyrJ-59" target="tFpNyGx5-nAJuSRPgyrJ-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="257" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-29" value="1989年" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="104" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tFpNyGx5-nAJuSRPgyrJ-31" target="tFpNyGx5-nAJuSRPgyrJ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-31" value="1991年" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="285" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-43" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; font-size: 11px; text-align: left; text-indent: 28px;&quot;&gt;内蒙古全套引进日本技术设备的羊绒加工项目落户东胜&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tFpNyGx5-nAJuSRPgyrJ-46" target="tFpNyGx5-nAJuSRPgyrJ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-46" value="1980年" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="104" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-54" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start; text-indent: 28px;&quot;&gt;&lt;font style=&quot;&quot;&gt;伊克昭盟&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start; text-indent: 28px;&quot;&gt;羊绒衫厂成立&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="85" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-58" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start; text-indent: 28px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;“鄂尔多斯”商标申请注册&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="190" width="85" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-59" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start; text-indent: 28px;&quot;&gt;&lt;font style=&quot;&quot;&gt;伊克昭盟羊绒衫厂与伊盟纺织工业公司分立，更名为鄂尔多斯羊绒衫厂。&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start; text-indent: 28px;&quot;&gt;鄂尔多斯羊绒衫厂发起成立“内蒙古KVSS羊绒企业集团”，确定了鄂尔多斯的行业龙头地位，并打造出“中国一号无毛绒——KVSS”品牌&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="190" width="286.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-60" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb（102%2C%20102%2C%20102）%3B%20font-family%3A%20%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91%2C%20Arial%2C%20Helvetica%2C%20sans-serif%3B%20text-align%3A%20start%3B%20text-indent%3A%2028px%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2011px%3B%26quot%3B%26gt%3B%E2%80%9C%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E2%80%9D%E5%95%86%E6%A0%87%E7%94%B3%E8%AF%B7%E6%B3%A8%E5%86%8C%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22355%22%20y%3D%22190%22%20width%3D%2285%22%20height%3D%2261%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2FmxCell%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="463.66668701171875" y="416.33331298828125" width="28" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-61" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb（102%2C%20102%2C%20102）%3B%20font-family%3A%20%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91%2C%20Arial%2C%20Helvetica%2C%20sans-serif%3B%20text-align%3A%20start%3B%20text-indent%3A%2028px%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2011px%3B%26quot%3B%26gt%3B%E2%80%9C%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E2%80%9D%E5%95%86%E6%A0%87%E7%94%B3%E8%AF%B7%E6%B3%A8%E5%86%8C%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22355%22%20y%3D%22190%22%20width%3D%2285%22%20height%3D%2261%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2FmxCell%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467.66668701171875" y="454.33331298828125" width="28" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-62" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;步入集团化经营的新时期，开启了“一业为主、多元经营”的新格局。&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619" y="378" width="141" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tFpNyGx5-nAJuSRPgyrJ-63" target="tFpNyGx5-nAJuSRPgyrJ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-63" value="1993年" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="285" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-65" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;先后在东胜、北京、深圳、大连、河北等地投资建成了二十多家羊绒制品加工企业，羊绒制品产销规模迅速增大&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="378" width="190" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tFpNyGx5-nAJuSRPgyrJ-66" target="tFpNyGx5-nAJuSRPgyrJ-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-66" value="1995年" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="347" y="285" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-69" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;鄂尔多斯B股在上交所上市&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303" y="378" width="98" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tFpNyGx5-nAJuSRPgyrJ-70" target="tFpNyGx5-nAJuSRPgyrJ-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-70" value="1998年" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="285" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-72" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;鄂尔多斯集团网站建成运营，随后集团国际互联网站正式开通&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="378" width="98" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="tFpNyGx5-nAJuSRPgyrJ-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="441" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-73" value="2002年" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="83" y="285" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-75" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start;&quot;&gt;产权制度改革顺利完成。&lt;/span&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: 微软雅黑, Arial, Helvetica, sans-serif; text-align: start;&quot;&gt;对产供销系统管理体系进行了市场化、高效化的变革&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="373" width="132" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="tFpNyGx5-nAJuSRPgyrJ-77" value="2002年" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="475" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
